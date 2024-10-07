@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "ToDo Chrome Extension",
+  "version": "1.0.0",
+  "description": "Uma extensão para te ajudar a organizar o seu dia a dia!",
+  "icons": {
+    "16": "16.png",
+    "32": "32.png",
+    "48": "48.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "16.png",
+      "32": "32.png"
+    },
+    "default_title": "ToDo Chrome",
+    "default_popup": "index.html"
+  }
+}
